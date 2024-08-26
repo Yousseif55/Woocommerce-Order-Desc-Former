@@ -10,14 +10,6 @@ The "Order Description Formatter" plugin extends WooCommerce's shipping method f
 - **Admin Settings Page:** An easy-to-use settings page in WooCommerce to configure item formatting and separators.
 - **Dynamic Formatting:** Adjusts formatting in the admin panel with JavaScript for better readability.
 
-## Installation:
-
-1. **Upload Plugin Files:**
-   - Upload the `order-description-formatter` folder to the `/wp-content/plugins/` directory.
-
-2. **Activate the Plugin:**
-   - Go to the WordPress admin area, navigate to Plugins, and activate the "Order Description Formatter" plugin.
-
 ## Usage:
 
 ### 1. Configuring Settings
